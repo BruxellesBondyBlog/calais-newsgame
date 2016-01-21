@@ -7,7 +7,7 @@ Ce newsgame (reportage-fiction interactif), réalisé par le [Bruxelles Bondy Bl
 
 # Spécificités techniques
 
-Ce newsgame a été développé pour être visionné avec Google Chrome et Mozilla Firefox uniquement. Il ne fonctionne pas sur les tablettes et smartphones. Pour une expérience optimale, préférez Mozilla Firefox.
+Ce newsgame a été conçu avec [Twine](http://twinery.org/). Il a été développé pour être visionné avec Google Chrome et Mozilla Firefox uniquement. Il ne fonctionne pas sur les tablettes et smartphones. Pour une expérience optimale, préférez Mozilla Firefox.
 
 # Team
 ### Reportage, narration et édition
