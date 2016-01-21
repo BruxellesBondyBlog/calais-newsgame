@@ -10,7 +10,7 @@ Ce newsgame (reportage-fiction interactif), réalisé par le [Bruxelles Bondy Bl
 Ce newsgame a été développé pour être visionné avec Google Chrome et Mozilla Firefox uniquement. Il ne fonctionne pas sur les tablettes et smartphones. Pour une expérience optimale, préférez Mozilla Firefox.
 
 # Team
-## Reportage, narration et édition
+### Reportage, narration et édition
 * Amandine Degand ([@AmandineDegand](https://twitter.com/AmandineDegand))
 * Maxime Delrue ([@mdelrue](https://twitter.com/mdelrue))
 * Juliette Favre ([@Juliette_Favre](https://twitter.com/Juliette_Favre))
@@ -21,12 +21,12 @@ Ce newsgame a été développé pour être visionné avec Google Chrome et Mozil
 * Malou Vandercammen ([sa biographie](http://www.bxlbondyblog.be/author/malou-vdc/))
 * Fanny Van Muylder ([@mdelrue](https://twitter.com/mdelrue))
 
-## Développement et réalisation web
+### Développement et réalisation web
 * Maxime Delrue ([@mdelrue](https://twitter.com/mdelrue))
 * Jonathan Hauvel ([@JHauvel](https://twitter.com/JHauvel))
 * Maxime Vaudano ([@mvaudano](https://twitter.com/mvaudano))
 
-## Remerciements
+### Remerciements
 * Florent de Grissac ([@FlorentDGrissac](https://twitter.com/florentdgrissac))
 * Nora de Marneffe ([@NoradeM](https://twitter.com/noradem))
 * Luc de Meyer ([sa biographie](https://be.linkedin.com/in/luc-de-meyer-b1171125))
