@@ -1,4 +1,4 @@
-# Calais newsgame
+# Newsgame à Calais : "Jungle is not for us, it's for animals"
 
 Ce newsgame (reportage-fiction interactif), réalisé par le [Bruxelles Bondy Blog](http://www.bxlbondyblog.be), a pour objectif d'immerger l'utilisateur dans la vie quotidienne des migrants de la "jungle" de Calais, en France.  
 
