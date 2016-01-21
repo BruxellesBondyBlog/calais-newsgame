@@ -11,29 +11,29 @@ Ce newsgame a été développé pour être visionné avec Google Chrome et Mozil
 
 # Team
 ## Reportage, narration et édition
-* Amandine Degand
-* Maxime Delrue
-* Juliette Favre
-* Ruben Hamburger
-* Sara Magniette
-* Guillaume Mercier
-* Romain Sinnes
-* Malou Vandercammen
-* Fanny Van Muylder
+* Amandine Degand ([@AmandineDegand](https://twitter.com/AmandineDegand))
+* Maxime Delrue ([@mdelrue](https://twitter.com/mdelrue))
+* Juliette Favre ([@Juliette_Favre](https://twitter.com/Juliette_Favre))
+* Ruben Hamburger ([@mcgibr](https://twitter.com/mcgibr))
+* Sara Magniette ([sa biographie](http://www.bxlbondyblog.be/author/smagniette/))
+* Guillaume Mercier ([@gmercier3](https://twitter.com/gmercier3))
+* Romain Sinnes ([@RomainSinnes](https://twitter.com/RomainSinnes))
+* Malou Vandercammen ([sa biographie](http://www.bxlbondyblog.be/author/malou-vdc/))
+* Fanny Van Muylder ([@mdelrue](https://twitter.com/mdelrue))
 
 ## Développement et réalisation web
-* Maxime Delrue
-* Jonathan Hauvel
-* Maxime Vaudano
+* Maxime Delrue ([@mdelrue](https://twitter.com/mdelrue))
+* Jonathan Hauvel ([@JHauvel](https://twitter.com/JHauvel))
+* Maxime Vaudano ([@mdelrue](https://twitter.com/mdelrue))
 
 ## Remerciements
-* Florent de Grissac
-* Nora de Marneffe
-* Luc de Meyer
-* Camille Laville
-* Florent Maurin
-* Frédéric Moens
-* Jean-François Raskin
+* Florent de Grissac ([@FlorentDGrissac](https://twitter.com/florentdgrissac))
+* Nora de Marneffe ([@NoradeM](https://twitter.com/noradem))
+* Luc de Meyer ([sa biographie](https://be.linkedin.com/in/luc-de-meyer-b1171125))
+* Camille Laville ([sa page Facebook](https://www.facebook.com/CamilleLavilleprofessionnel))
+* Florent Maurin ([@K3v1n_du_71](https://twitter.com/k3v1n_du_71))
+* Frédéric Moens ([@mdelrue](https://twitter.com/mdelrue))
+* Jean-François Raskin ([son contact](http://www.ihecs.be/fr/raskin))
 * Maxime Vaudano
-* Les volontaires de Solidarités International
+* Les volontaires de Solidarités International ([leur site](http://www.solidarites.org/fr/)
 * Les migrants de la "jungle"
