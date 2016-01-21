@@ -24,7 +24,7 @@ Ce newsgame a été développé pour être visionné avec Google Chrome et Mozil
 ## Développement et réalisation web
 * Maxime Delrue ([@mdelrue](https://twitter.com/mdelrue))
 * Jonathan Hauvel ([@JHauvel](https://twitter.com/JHauvel))
-* Maxime Vaudano ([@mdelrue](https://twitter.com/mdelrue))
+* Maxime Vaudano ([@mvaudano](https://twitter.com/mvaudano))
 
 ## Remerciements
 * Florent de Grissac ([@FlorentDGrissac](https://twitter.com/florentdgrissac))
@@ -34,6 +34,6 @@ Ce newsgame a été développé pour être visionné avec Google Chrome et Mozil
 * Florent Maurin ([@K3v1n_du_71](https://twitter.com/k3v1n_du_71))
 * Frédéric Moens ([@mdelrue](https://twitter.com/mdelrue))
 * Jean-François Raskin ([son contact](http://www.ihecs.be/fr/raskin))
-* Maxime Vaudano
+* Maxime Vaudano ([@mvaudano](https://twitter.com/mvaudano))
 * Les volontaires de Solidarités International ([leur site](http://www.solidarites.org/fr/)
 * Les migrants de la "jungle"
