@@ -10,5 +10,30 @@ Ce newsgame (reportage-fiction interactif), réalisé par le [Bruxelles Bondy Bl
 Ce newsgame a été développé pour être visionné avec Google Chrome et Mozilla Firefox uniquement. Il ne fonctionne pas sur les tablettes et smartphones. Pour une expérience optimale, préférez Mozilla Firefox.
 
 # Team
+## Reportage, narration et édition
+* Amandine Degand
+* Maxime Delrue
+* Juliette Favre
+* Ruben Hamburger
+* Sara Magniette
+* Guillaume Mercier
+* Romain Sinnes
+* Malou Vandercammen
+* Fanny Van Muylder
 
-![remerciements newsgame](http://www.bxlbondyblog.be/applis/calaisnewsgame/img/finale.jpg)
+## Développement et réalisation web
+* Maxime Delrue
+* Jonathan Hauvel
+* Maxime Vaudano
+
+## Remerciements
+* Florent de Grissac
+* Nora de Marneffe
+* Luc de Meyer
+* Camille Laville
+* Florent Maurin
+* Frédéric Moens
+* Jean-François Raskin
+* Maxime Vaudano
+* Les volontaires de Solidarités International
+* Les migrants de la "jungle"
